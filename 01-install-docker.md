@@ -3,7 +3,7 @@
 ---
 
 ## Step 1: Download Docker Desktop
-1. Open your browser and go to: https://www.docker.com/products/docker-desktop](https://docs.docker.com/get-started/get-docker/)
+1. Open your browser and go to: https://www.docker.com
 2. Choose the correct version for your operating system: **Windows / Mac / Linux**.
 3. Download the installer file.
 
